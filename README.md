@@ -5,7 +5,7 @@ Escopo desse repositorio
  
 Esse repositorio foi criado com intuito de facilitar a comunicação de consultas e criações registroes no banco do G6
   para sistemas legados. Devido a muita dificuldade dos desenvolvedores de fazer uma comunicação efeitiva entre o delphi
-  e o python, foi criado tal sistema.
+  e o MongodDB, foi criado tal sistema.
 
 Como instalar
 -----------------
